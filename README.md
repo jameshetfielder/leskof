@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leskof
 - 👀 I’m interested in software, coding and motorsports.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on software and coding.
 - 📫 How to reach me Instagram: @yavuzbuld | Twitter: @leskofhimself | Global AI Hub: https://globalaihub.com/members/yavuzbuldag/
 
